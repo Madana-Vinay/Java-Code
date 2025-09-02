@@ -5,5 +5,6 @@ class Java
         int a=10;
         int b=30;
         System.out.println(a+b);
+        System.out.println("Name is vinay");
     }
 }
